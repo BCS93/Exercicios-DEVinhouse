@@ -1,0 +1,15 @@
+D:\Bruno\C#\Exercicios\[M2S02] Ex 1 - Cálculo Salário Funcionário\[M2S02] Ex 1 - Cálculo Salário Funcionário\bin\Debug\net6.0\[M2S02] Ex 1 - Cálculo Salário Funcionário.exe
+D:\Bruno\C#\Exercicios\[M2S02] Ex 1 - Cálculo Salário Funcionário\[M2S02] Ex 1 - Cálculo Salário Funcionário\bin\Debug\net6.0\[M2S02] Ex 1 - Cálculo Salário Funcionário.deps.json
+D:\Bruno\C#\Exercicios\[M2S02] Ex 1 - Cálculo Salário Funcionário\[M2S02] Ex 1 - Cálculo Salário Funcionário\bin\Debug\net6.0\[M2S02] Ex 1 - Cálculo Salário Funcionário.runtimeconfig.json
+D:\Bruno\C#\Exercicios\[M2S02] Ex 1 - Cálculo Salário Funcionário\[M2S02] Ex 1 - Cálculo Salário Funcionário\bin\Debug\net6.0\[M2S02] Ex 1 - Cálculo Salário Funcionário.dll
+D:\Bruno\C#\Exercicios\[M2S02] Ex 1 - Cálculo Salário Funcionário\[M2S02] Ex 1 - Cálculo Salário Funcionário\bin\Debug\net6.0\[M2S02] Ex 1 - Cálculo Salário Funcionário.pdb
+D:\Bruno\C#\Exercicios\[M2S02] Ex 1 - Cálculo Salário Funcionário\[M2S02] Ex 1 - Cálculo Salário Funcionário\obj\Debug\net6.0\[M2S02] Ex 1 - Cálculo Salário Funcionário.csproj.AssemblyReference.cache
+D:\Bruno\C#\Exercicios\[M2S02] Ex 1 - Cálculo Salário Funcionário\[M2S02] Ex 1 - Cálculo Salário Funcionário\obj\Debug\net6.0\[M2S02] Ex 1 - Cálculo Salário Funcionário.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bruno\C#\Exercicios\[M2S02] Ex 1 - Cálculo Salário Funcionário\[M2S02] Ex 1 - Cálculo Salário Funcionário\obj\Debug\net6.0\[M2S02] Ex 1 - Cálculo Salário Funcionário.AssemblyInfoInputs.cache
+D:\Bruno\C#\Exercicios\[M2S02] Ex 1 - Cálculo Salário Funcionário\[M2S02] Ex 1 - Cálculo Salário Funcionário\obj\Debug\net6.0\[M2S02] Ex 1 - Cálculo Salário Funcionário.AssemblyInfo.cs
+D:\Bruno\C#\Exercicios\[M2S02] Ex 1 - Cálculo Salário Funcionário\[M2S02] Ex 1 - Cálculo Salário Funcionário\obj\Debug\net6.0\[M2S02] Ex 1 - Cálculo Salário Funcionário.csproj.CoreCompileInputs.cache
+D:\Bruno\C#\Exercicios\[M2S02] Ex 1 - Cálculo Salário Funcionário\[M2S02] Ex 1 - Cálculo Salário Funcionário\obj\Debug\net6.0\[M2S02] Ex 1 - Cálculo Salário Funcionário.dll
+D:\Bruno\C#\Exercicios\[M2S02] Ex 1 - Cálculo Salário Funcionário\[M2S02] Ex 1 - Cálculo Salário Funcionário\obj\Debug\net6.0\refint\[M2S02] Ex 1 - Cálculo Salário Funcionário.dll
+D:\Bruno\C#\Exercicios\[M2S02] Ex 1 - Cálculo Salário Funcionário\[M2S02] Ex 1 - Cálculo Salário Funcionário\obj\Debug\net6.0\[M2S02] Ex 1 - Cálculo Salário Funcionário.pdb
+D:\Bruno\C#\Exercicios\[M2S02] Ex 1 - Cálculo Salário Funcionário\[M2S02] Ex 1 - Cálculo Salário Funcionário\obj\Debug\net6.0\[M2S02] Ex 1 - Cálculo Salário Funcionário.genruntimeconfig.cache
+D:\Bruno\C#\Exercicios\[M2S02] Ex 1 - Cálculo Salário Funcionário\[M2S02] Ex 1 - Cálculo Salário Funcionário\obj\Debug\net6.0\ref\[M2S02] Ex 1 - Cálculo Salário Funcionário.dll

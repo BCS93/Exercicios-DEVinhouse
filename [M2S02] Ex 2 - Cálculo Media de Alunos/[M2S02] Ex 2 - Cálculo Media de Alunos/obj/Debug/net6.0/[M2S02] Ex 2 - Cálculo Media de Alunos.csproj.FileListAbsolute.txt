@@ -1,0 +1,15 @@
+D:\Bruno\C#\Exercicios\[M2S02] Ex 2 - Cálculo Media de Alunos\[M2S02] Ex 2 - Cálculo Media de Alunos\bin\Debug\net6.0\[M2S02] Ex 2 - Cálculo Media de Alunos.exe
+D:\Bruno\C#\Exercicios\[M2S02] Ex 2 - Cálculo Media de Alunos\[M2S02] Ex 2 - Cálculo Media de Alunos\bin\Debug\net6.0\[M2S02] Ex 2 - Cálculo Media de Alunos.deps.json
+D:\Bruno\C#\Exercicios\[M2S02] Ex 2 - Cálculo Media de Alunos\[M2S02] Ex 2 - Cálculo Media de Alunos\bin\Debug\net6.0\[M2S02] Ex 2 - Cálculo Media de Alunos.runtimeconfig.json
+D:\Bruno\C#\Exercicios\[M2S02] Ex 2 - Cálculo Media de Alunos\[M2S02] Ex 2 - Cálculo Media de Alunos\bin\Debug\net6.0\[M2S02] Ex 2 - Cálculo Media de Alunos.dll
+D:\Bruno\C#\Exercicios\[M2S02] Ex 2 - Cálculo Media de Alunos\[M2S02] Ex 2 - Cálculo Media de Alunos\bin\Debug\net6.0\[M2S02] Ex 2 - Cálculo Media de Alunos.pdb
+D:\Bruno\C#\Exercicios\[M2S02] Ex 2 - Cálculo Media de Alunos\[M2S02] Ex 2 - Cálculo Media de Alunos\obj\Debug\net6.0\[M2S02] Ex 2 - Cálculo Media de Alunos.csproj.AssemblyReference.cache
+D:\Bruno\C#\Exercicios\[M2S02] Ex 2 - Cálculo Media de Alunos\[M2S02] Ex 2 - Cálculo Media de Alunos\obj\Debug\net6.0\[M2S02] Ex 2 - Cálculo Media de Alunos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bruno\C#\Exercicios\[M2S02] Ex 2 - Cálculo Media de Alunos\[M2S02] Ex 2 - Cálculo Media de Alunos\obj\Debug\net6.0\[M2S02] Ex 2 - Cálculo Media de Alunos.AssemblyInfoInputs.cache
+D:\Bruno\C#\Exercicios\[M2S02] Ex 2 - Cálculo Media de Alunos\[M2S02] Ex 2 - Cálculo Media de Alunos\obj\Debug\net6.0\[M2S02] Ex 2 - Cálculo Media de Alunos.AssemblyInfo.cs
+D:\Bruno\C#\Exercicios\[M2S02] Ex 2 - Cálculo Media de Alunos\[M2S02] Ex 2 - Cálculo Media de Alunos\obj\Debug\net6.0\[M2S02] Ex 2 - Cálculo Media de Alunos.csproj.CoreCompileInputs.cache
+D:\Bruno\C#\Exercicios\[M2S02] Ex 2 - Cálculo Media de Alunos\[M2S02] Ex 2 - Cálculo Media de Alunos\obj\Debug\net6.0\[M2S02] Ex 2 - Cálculo Media de Alunos.dll
+D:\Bruno\C#\Exercicios\[M2S02] Ex 2 - Cálculo Media de Alunos\[M2S02] Ex 2 - Cálculo Media de Alunos\obj\Debug\net6.0\refint\[M2S02] Ex 2 - Cálculo Media de Alunos.dll
+D:\Bruno\C#\Exercicios\[M2S02] Ex 2 - Cálculo Media de Alunos\[M2S02] Ex 2 - Cálculo Media de Alunos\obj\Debug\net6.0\[M2S02] Ex 2 - Cálculo Media de Alunos.pdb
+D:\Bruno\C#\Exercicios\[M2S02] Ex 2 - Cálculo Media de Alunos\[M2S02] Ex 2 - Cálculo Media de Alunos\obj\Debug\net6.0\[M2S02] Ex 2 - Cálculo Media de Alunos.genruntimeconfig.cache
+D:\Bruno\C#\Exercicios\[M2S02] Ex 2 - Cálculo Media de Alunos\[M2S02] Ex 2 - Cálculo Media de Alunos\obj\Debug\net6.0\ref\[M2S02] Ex 2 - Cálculo Media de Alunos.dll
