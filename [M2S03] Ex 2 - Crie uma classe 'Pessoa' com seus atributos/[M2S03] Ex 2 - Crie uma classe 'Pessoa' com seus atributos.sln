@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[M2S03] Ex 2 - Crie uma classe 'Pessoa' com seus atributos", "[M2S03] Ex 2 - Crie uma classe 'Pessoa' com seus atributos\[M2S03] Ex 2 - Crie uma classe 'Pessoa' com seus atributos.csproj", "{2F8749B4-52C9-469A-821C-CB9EC2A9B606}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F8749B4-52C9-469A-821C-CB9EC2A9B606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F8749B4-52C9-469A-821C-CB9EC2A9B606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F8749B4-52C9-469A-821C-CB9EC2A9B606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F8749B4-52C9-469A-821C-CB9EC2A9B606}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A75BC185-FB53-4173-A86A-1C795E74EC1B}
+	EndGlobalSection
+EndGlobal
