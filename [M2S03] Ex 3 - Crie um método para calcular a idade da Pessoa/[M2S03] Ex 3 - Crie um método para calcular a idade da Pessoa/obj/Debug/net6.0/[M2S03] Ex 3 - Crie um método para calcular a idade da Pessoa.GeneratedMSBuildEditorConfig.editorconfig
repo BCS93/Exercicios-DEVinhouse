@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _M2S03__Ex_3___Crie_um_método_para_calcular_a_idade_da_Pessoa
+build_property.ProjectDir = D:\Bruno\C#\Exercicios\[M2S03] Ex 3 - Crie um método para calcular a idade da Pessoa\[M2S03] Ex 3 - Crie um método para calcular a idade da Pessoa\
