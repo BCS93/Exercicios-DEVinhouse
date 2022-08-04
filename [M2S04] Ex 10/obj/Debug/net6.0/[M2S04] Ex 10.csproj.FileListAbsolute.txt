@@ -1,0 +1,15 @@
+D:\Bruno\C#\Exercicios\[M2S04] Ex 10\bin\Debug\net6.0\[M2S04] Ex 10.exe
+D:\Bruno\C#\Exercicios\[M2S04] Ex 10\bin\Debug\net6.0\[M2S04] Ex 10.deps.json
+D:\Bruno\C#\Exercicios\[M2S04] Ex 10\bin\Debug\net6.0\[M2S04] Ex 10.runtimeconfig.json
+D:\Bruno\C#\Exercicios\[M2S04] Ex 10\bin\Debug\net6.0\[M2S04] Ex 10.dll
+D:\Bruno\C#\Exercicios\[M2S04] Ex 10\bin\Debug\net6.0\[M2S04] Ex 10.pdb
+D:\Bruno\C#\Exercicios\[M2S04] Ex 10\obj\Debug\net6.0\[M2S04] Ex 10.csproj.AssemblyReference.cache
+D:\Bruno\C#\Exercicios\[M2S04] Ex 10\obj\Debug\net6.0\[M2S04] Ex 10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bruno\C#\Exercicios\[M2S04] Ex 10\obj\Debug\net6.0\[M2S04] Ex 10.AssemblyInfoInputs.cache
+D:\Bruno\C#\Exercicios\[M2S04] Ex 10\obj\Debug\net6.0\[M2S04] Ex 10.AssemblyInfo.cs
+D:\Bruno\C#\Exercicios\[M2S04] Ex 10\obj\Debug\net6.0\[M2S04] Ex 10.csproj.CoreCompileInputs.cache
+D:\Bruno\C#\Exercicios\[M2S04] Ex 10\obj\Debug\net6.0\[M2S04] Ex 10.dll
+D:\Bruno\C#\Exercicios\[M2S04] Ex 10\obj\Debug\net6.0\refint\[M2S04] Ex 10.dll
+D:\Bruno\C#\Exercicios\[M2S04] Ex 10\obj\Debug\net6.0\[M2S04] Ex 10.pdb
+D:\Bruno\C#\Exercicios\[M2S04] Ex 10\obj\Debug\net6.0\[M2S04] Ex 10.genruntimeconfig.cache
+D:\Bruno\C#\Exercicios\[M2S04] Ex 10\obj\Debug\net6.0\ref\[M2S04] Ex 10.dll
