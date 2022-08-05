@@ -1,0 +1,15 @@
+D:\Bruno\C#\Exercicios\[M2S05] Projeto - Batalha de Robos\obj\Debug\net6.0\[M2S05] Projeto - Batalha de Robos.csproj.AssemblyReference.cache
+D:\Bruno\C#\Exercicios\[M2S05] Projeto - Batalha de Robos\obj\Debug\net6.0\[M2S05] Projeto - Batalha de Robos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bruno\C#\Exercicios\[M2S05] Projeto - Batalha de Robos\obj\Debug\net6.0\[M2S05] Projeto - Batalha de Robos.AssemblyInfoInputs.cache
+D:\Bruno\C#\Exercicios\[M2S05] Projeto - Batalha de Robos\obj\Debug\net6.0\[M2S05] Projeto - Batalha de Robos.AssemblyInfo.cs
+D:\Bruno\C#\Exercicios\[M2S05] Projeto - Batalha de Robos\obj\Debug\net6.0\[M2S05] Projeto - Batalha de Robos.csproj.CoreCompileInputs.cache
+D:\Bruno\C#\Exercicios\[M2S05] Projeto - Batalha de Robos\bin\Debug\net6.0\[M2S05] Projeto - Batalha de Robos.exe
+D:\Bruno\C#\Exercicios\[M2S05] Projeto - Batalha de Robos\bin\Debug\net6.0\[M2S05] Projeto - Batalha de Robos.deps.json
+D:\Bruno\C#\Exercicios\[M2S05] Projeto - Batalha de Robos\bin\Debug\net6.0\[M2S05] Projeto - Batalha de Robos.runtimeconfig.json
+D:\Bruno\C#\Exercicios\[M2S05] Projeto - Batalha de Robos\bin\Debug\net6.0\[M2S05] Projeto - Batalha de Robos.dll
+D:\Bruno\C#\Exercicios\[M2S05] Projeto - Batalha de Robos\bin\Debug\net6.0\[M2S05] Projeto - Batalha de Robos.pdb
+D:\Bruno\C#\Exercicios\[M2S05] Projeto - Batalha de Robos\obj\Debug\net6.0\[M2S05] Projeto - Batalha de Robos.dll
+D:\Bruno\C#\Exercicios\[M2S05] Projeto - Batalha de Robos\obj\Debug\net6.0\refint\[M2S05] Projeto - Batalha de Robos.dll
+D:\Bruno\C#\Exercicios\[M2S05] Projeto - Batalha de Robos\obj\Debug\net6.0\[M2S05] Projeto - Batalha de Robos.pdb
+D:\Bruno\C#\Exercicios\[M2S05] Projeto - Batalha de Robos\obj\Debug\net6.0\[M2S05] Projeto - Batalha de Robos.genruntimeconfig.cache
+D:\Bruno\C#\Exercicios\[M2S05] Projeto - Batalha de Robos\obj\Debug\net6.0\ref\[M2S05] Projeto - Batalha de Robos.dll
